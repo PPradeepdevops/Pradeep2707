@@ -1,0 +1,15 @@
+orange
+apple
+grape
+mango
+banan
+maskmelon
+water melon
+
+LION
+TIGER
+RABBIT
+FOX
+DOG
+SNAKE
+ELEPHANT
